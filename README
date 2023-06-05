@@ -1,0 +1,1 @@
+This is a research project for finding a method for expression and arithmatic operation on numbers(or specifically integers) greater than 255, which would be negative number. A python script that only accepts number <= 255 will be written in python and expressing a number in form of coordinates is the primary method.
